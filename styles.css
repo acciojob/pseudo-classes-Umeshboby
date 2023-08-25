@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+.main{
+	margin:15px;
+}
+:root{
+	background-color: rgb(135, 206, 235);
+}
+.para-1{
+	background-color: black;
+	color:white;
+}
+.para-4{
+	color:red;
+}
+.second{
+	background-color:grey;
+}
+.third{
+background-color:pink;
+}
+.fifth{
+	background-color:white;
+}
+ul>li{
+	
+	margin-left: 10px;
+	width: 50%;
+}
+ul{
+	margin-top:10px;
+}
